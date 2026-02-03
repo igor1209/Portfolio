@@ -1,22 +1,31 @@
-# 👨‍💻 Igor Luiz
+# 📊 Dashboard de Salários Tech
 
-🎓 Software Engineering student  
-🌎 Recife - Brazil  
-💻 Web, Game & Backend Developer  
+Dashboard interativo desenvolvido em Python durante a **Imersão Alura**,
+utilizando dados reais sobre salários na área de tecnologia.
 
-## 🚀 Skills
-- HTML, CSS, JavaScript
-- Node.js
-- React
-- C#
-- Java
-- Git & GitHub
+O projeto permite analisar salários por **ano, senioridade, tipo de trabalho
+(remoto/presencial)** e visualizar tendências ao longo do tempo.
 
-## 📂 Projects
-Here you will find:
-- Web systems (SaaS, websites)
-- Game projects
-- Bots and automation
-- APIs and backend
+---
 
-I focus on building real-world projects and becoming a professional software engineer.
+## 🚀 Tecnologias utilizadas
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+
+---
+
+## 📈 Funcionalidades
+- Análise de salário médio por senioridade  
+- Comparação entre trabalho remoto, híbrido e presencial  
+- Evolução salarial ao longo dos anos  
+- Dashboard interativo com filtros
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/igor1209/Portfolio.git
